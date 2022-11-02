@@ -11,7 +11,7 @@ path_to_Muscle -super5 mouse.fa -output mouse_aligned.fasta
 
 ## Task1.b
 
-Install weblogo with pip or conda. Then:
+Install weblogo with `pip` or `conda`. Then:
 
 ```{bash}
 weblogo --format PNG --size large < human_aligned.fasta > h_logo.png
