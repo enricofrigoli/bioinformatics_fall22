@@ -1,4 +1,7 @@
 .fa
 .fasta
 .png
-/data
+.log
+.out
+.bcf
+.xml
