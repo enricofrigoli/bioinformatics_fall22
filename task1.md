@@ -5,7 +5,7 @@ Download muscle from [here](https://drive5.com/muscle5/).
 Create multiple sequence alignment:
 
 ```{bash}
-path_to_Muscle -super5 human.fa -ouput human_aligned.fasta
+path_to_Muscle -super5 human.fa -output human_aligned.fasta
 path_to_Muscle -super5 mouse.fa -output mouse_aligned.fasta
 ```
 
