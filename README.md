@@ -1,7 +1,7 @@
 # Project: Antibody Sequence Analysis
 
 
-## Task 1 - Sequence Logos from Multiple Sequence Alignemnts
+## Task 1 - Sequence Logos from Multiple Sequence Alignment
 
 * Create a multiple sequence alignment of the antibody sequences
 * Visualize the multiple sequence alignemnt using a sequence logo
